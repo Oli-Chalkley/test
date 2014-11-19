@@ -3,3 +3,4 @@ A
 B<-matrix(c(6,7,8,9),nrow=2,ncol=2)
 B
 print(A*B)
+print("poo")
